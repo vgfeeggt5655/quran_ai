@@ -1,0 +1,5 @@
+{
+  "name": "Quran Web App",
+  "description": "A web application to browse and read the Holy Quran, featuring user authentication. Built with React, TypeScript, and Tailwind CSS for a modern and responsive experience.",
+  "requestFramePermissions": []
+}
